@@ -1,6 +1,14 @@
 ﻿  main.cpp
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(50,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(72,61): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(126,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(137,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(137,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(145,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\main.cpp(145,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating code
-  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+  1 of 70 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
