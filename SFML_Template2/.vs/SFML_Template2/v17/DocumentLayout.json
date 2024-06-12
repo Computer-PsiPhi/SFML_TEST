@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\blott\\source\\repos\\SFML_Template2\\",
+  "WorkspaceRootPath": "C:\\Users\\blott\\OneDrive\\Documents\\GITHUB REPOS\\for testing\\SFML_TEST\\SFML_Template2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77268A3A-2F37-49A2-B669-20CC7BA32E0E}|SFML_Template2.vcxproj|C:\\Users\\blott\\source\\repos\\SFML_Template2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{77268A3A-2F37-49A2-B669-20CC7BA32E0E}|SFML_Template2.vcxproj|C:\\Users\\blott\\OneDrive\\Documents\\GITHUB REPOS\\for testing\\SFML_TEST\\SFML_Template2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{77268A3A-2F37-49A2-B669-20CC7BA32E0E}|SFML_Template2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\blott\\source\\repos\\SFML_Template2\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\blott\\OneDrive\\Documents\\GITHUB REPOS\\for testing\\SFML_TEST\\SFML_Template2\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\blott\\source\\repos\\SFML_Template2\\main.cpp",
+              "ToolTip": "C:\\Users\\blott\\OneDrive\\Documents\\GITHUB REPOS\\for testing\\SFML_TEST\\SFML_Template2\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-12T03:55:04Z",
               "EditorCaption": ""

@@ -1,7 +1,7 @@
 ﻿  main.cpp
   Generating code
-  0 of 4 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  SFML_Template2.vcxproj -> C:\Users\blott\source\repos\SFML_Template2\x64\Release\SFML_Template2.exe
+  SFML_Template2.vcxproj -> C:\Users\blott\OneDrive\Documents\GITHUB REPOS\for testing\SFML_TEST\SFML_Template2\x64\Release\SFML_Template2.exe
